@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular relation of the present estate and condition of Ireland: manifested by severall letters, sent from thence by persons of worth with a true accompt of all such garrisons as have been taken in, and recovered since Christmas last, in the County of Kildare. By the Lord Leivtenant Cromwel Generall of all the Parliaments forces in Ireland. Dublin, the 11. of March.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91498</idno><idno type="EEBO-CITATION">99866022</idno>
+  <idno type="VID">165572</idno>
+  <idno type="EEBO-PROQUEST">2240927686</idno>
+  
+            <idno type="STC">Wing P603</idno>
+            <idno type="STC">Thomason E595_10</idno>
+            <idno type="STC">ESTC R206935</idno>
+            <idno type="PROQUEST">99866022</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866022e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E595[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular relation of the present estate and condition of Ireland: manifested by severall letters, sent from thence by persons of worth with a true accompt of all such garrisons as have been taken in, and recovered since Christmas last, in the County of Kildare. By the Lord Leivtenant Cromwel Generall of all the Parliaments forces in Ireland. Dublin, the 11. of March.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "March. 19 1649"; the imprint date in colophon has been crossed out and "1649" written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165572:1"/>
+            <head>A PARTICULAR RELATION OF The present Estate and Condition <hi>OF</hi> IRELAND: Manifested by severall Letters, sent from thence by Persons of Worth WITH A TRUE ACCOMPT OF ALL SUCH Garrisons as have been taken in, and recovered since Christmas last, in the County of <hi>Kildare.</hi>
+            </head>
+            <head type="sub">By the Lord Leivtenant CROMWEL Generall of all the Parliaments Forces in IRELAND.</head>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Dublin, </hi>
+                     <date>
+                        <hi> the</hi> 11. <hi>of March.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HE 25. of <hi>February,</hi> our Governour drew out towards the <hi>Naas,</hi> with 2500. Foot, and 1000. Horse, with which he marched toward the Fort and Castle of <hi>Bellisonan,</hi> where he arrived the first Instant, summoned the place, upon re<g ref="char:EOLhyphen"/>susall, planted his Guns, made a breach, was ready to storme, the Besieged send to parley, and
+<pb n="2" facs="tcp:165572:2"/> afterward surrender upon Articles, That they should march away with their Armes, and each of them a pound of Pouder, and proportionable Match, which was accor<g ref="char:EOLhyphen"/>dingly performed, and a Garrison of ours setled there.</p>
+               <p>The next day hee rested his Men; and at midnight marcht to Castle <hi>Dermot,</hi> and from thence sent a Party to <hi>Athye,</hi> a Passe upon the <hi>Barrow,</hi> of great concernment, and surprized it, wherein were taken severall <hi>Tories,</hi> wherein he hath put a Garrison of Horse and Foot; he hath also taken the Castles of <hi>Tymolyn, Ballebeyg,</hi> and <hi>Kilrush,</hi> where<g ref="char:EOLhyphen"/>in he hath also placed severall Garrisons, as also in <hi>Kil<g ref="char:EOLhyphen"/>malacke,</hi> being the Castle of the Bogg of <hi>Allen,</hi> which the Enemy had burnt, and endeavoured to have slighted, up<g ref="char:EOLhyphen"/>on the rumour of advance from hence, but now is made tenable.</p>
+               <p>Upon Saturday last the Governour returned hither a<g ref="char:EOLhyphen"/>gaine with his owne Troop alone, having disposed his Forces in our Quarters; our Forces about <hi>Wexford</hi> have re<g ref="char:EOLhyphen"/>covered <hi>Iniscorthy,</hi> and have taken <hi>Brownswood</hi> by storme, and put all to the Sword.</p>
+               <p>The Enemies in the North are very quiet in their Quar<g ref="char:EOLhyphen"/>ters, notwithstanding the trouble their Freinds are in here, and they stir not to their assistance; they have appointed to chuse a Generall upon the seventeenth instant, but I doubt not but Sir <hi>Charles Coot</hi> wil visit their Quarters before that time, and I presume he had before this time done it, had not somethings wanting hindred him.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Dublin,</hi>
+                     <date> 16. <hi>February,</hi> 1649.</date>
+                  </dateline>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>MY last unto your Lordship of the 31. of <hi>January</hi> last, wherein I gave your Lordship an account of the then state of Affaires here.</p>
+               <pb n="3" facs="tcp:165572:2"/>
+               <p> Upon Wednesday the sixt Instant (information being given that five Companies of the Eenemys Foot were come to Roores Court, about eight Miles from hence, on Wick<g ref="char:EOLhyphen"/>low side) a Party was sent from this place under the Com<g ref="char:EOLhyphen"/>mand of Sir <hi>Theophilus Jones,</hi> to beate them out, or fight them, but before our party got thither, they demolisht all the Buildings, pull'd downe the very Walls, and fled away into the Woods: We could not leave any Garrison there, be<g ref="char:EOLhyphen"/>cause there is no matter of shelter for our men.</p>
+               <p>The tenth Instant, Letters from Sir <hi>Charles Coote</hi> at <hi>Belfast,</hi> brought the Newes of the reducing of <hi>Castle-Doe,</hi> in the North-West of <hi>Ireland.</hi>
+               </p>
+               <p>The plague continues at Galway, most of their Gentry have there perished by it, amongst the rest <hi>Jefferay Browne,</hi> heretofore a practisor at Law in England, and Sir <hi>Richard Blayne,</hi> both prime actors and chiefe in the supreame Coun<g ref="char:EOLhyphen"/>cell at Kilkenney; and eminent contrivers of the Rebellion are dead.</p>
+               <p>
+                  <hi>Ormond</hi> was lately at Portumny with the Earle of <hi>Clanric<g ref="char:EOLhyphen"/>kard</hi> in Connought.</p>
+               <p>Captaine <hi>Mollineux</hi> is arrived here from Wexford, who brings Newes of our taking of the Fort of Ballihaet, over a<g ref="char:EOLhyphen"/>gainst passage Fort, whereby all Trade by Sea to Waterford is cut off.</p>
+               <p>There is a very great jealousie betweene the Townes<g ref="char:EOLhyphen"/>men of Waterford and the Souldiers there.</p>
+               <p>The Plague is exceeding hot in Kilkenney. The To<g ref="char:EOLhyphen"/>ries have so barbarously behaved themselves towards their owne party, that the Fryars and Preists have excommuni<g ref="char:EOLhyphen"/>cated them.</p>
+            </div>
+            <div type="letter">
+               <opener>May it please your Lordship:</opener>
+               <p>THe Lord Lievtenant hath lately taken many considera<g ref="char:EOLhyphen"/>ble places from the enemy, as <hi>Callan</hi> within six miles of
+<pb n="4" facs="tcp:165572:3"/>
+                  <hi>Kilkenny,</hi> just beyond it, and <hi>Cnocktogher,</hi> eight miles East from it. Hee hath also possest himselfe of <hi>Roscrea,</hi> and <hi>Thurl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> since he tooke <hi>Casshall,</hi> and now the head Quarter is at <hi>Fedard</hi> in the very bowels of the enemy. The plague is very hot in <hi>Kilkenny.</hi>
+               </p>
+               <p>Collonell <hi>Hewson</hi> the Governour of this place is mar<g ref="char:EOLhyphen"/>ched to the siege of <hi>Bellisonan,</hi> with a very Gallant party, he hath about a 1000 Horse, and 2500 Foote, besides Offi<g ref="char:EOLhyphen"/>cers, he hath taken with him a Demy Cannon, a culver<g ref="char:EOLhyphen"/>in, and a Demyculverinand a Morter-peece.</p>
+               <p>The Enemy were so frightned with the reports of the Ordnance that they have burnt the Castle in the Island of <hi>Allon, Athy,</hi> and <hi>Mariburg.</hi>
+               </p>
+               <p>If God give him successe in this expedition, and that he take <hi>Bellisonan,</hi> he will put some men into <hi>Athy,</hi> and so gaine a passage over the River of <hi>Barrow,</hi> by which meanes he may joyne with my Lords Army at pleasure; for <hi>Ros<g ref="char:EOLhyphen"/>cra</hi> is but twenty Miles from <hi>Athy,</hi> and no place betweene them to hinder a conjunction.</p>
+               <p>Since the taking of <hi>Ballihac</hi> in the County of <hi>Wexford, Enishkorsee</hi> Mr. <hi>Wallops</hi> house is also yeelded up to the Go<g ref="char:EOLhyphen"/>vernour of <hi>Wexford</hi> by the same knave that betrayed it to the <hi>Irish.</hi>
+               </p>
+               <p>The Lord of <hi>Ormond</hi> hath left <hi>Leinster</hi> to the care of the Lord <hi>Castlehaven,</hi> and is gone over the <hi>Shanon</hi> into <hi>Con<g ref="char:EOLhyphen"/>naught. Castlehaven</hi> is drawing together all the force he can to relieve <hi>Belisonan.</hi> I heard lately from Sir <hi>Charles Coote,</hi> all is well and quiet there.</p>
+               <p>Since the writing here of I have received Letters from the Governour that <hi>Bellisonan</hi> was yeelded to him on Fri<g ref="char:EOLhyphen"/>day night the first of this moneth, and he is marched to<g ref="char:EOLhyphen"/>wards <hi>Kilkena</hi> and <hi>Athy:</hi> my Lord Lievtenant has taken <hi>Cahir</hi> Castle lately, and has laid siege to <hi>Tinan</hi> Castle; he has blockt up <hi>Clonmel</hi> at a distance, by putting in Gar<g ref="char:EOLhyphen"/>risons into all the places about it.</p>
+               <pb n="5" facs="tcp:165572:3"/>
+               <p> I have been too troublesome to your Lordship, for which he humbly begs pardon, who is</p>
+               <closer>
+                  <signed>Your most humble servant.</signed>
+                  <dateline>
+                     <hi>Dublyn</hi>
+                     <date>4. <hi>March.</hi> 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>I have formerly communicated to your Lordship my surprising the strong Fort of Blacke-Ditch on the Boy of <hi>Allen,</hi> and tooke and garrisoned divers other places there<g ref="char:EOLhyphen"/>abouts in the County of <hi>Kildare.</hi>
+               </p>
+               <p>The latter end of the last moneth wee marched out with what Forces could be spared from the Garrisons here<g ref="char:EOLhyphen"/>about to reduce <hi>Kilma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g</hi> Castle in the Island of <hi>Allin, Bel<g ref="char:EOLhyphen"/>lisonan</hi> and divers other Garrisons in the County of <hi>Kil<g ref="char:EOLhyphen"/>dare,</hi> which in a short time by the help of God was effected, the enemy upon my motion fiered <hi>Kilmaoy, Athy,</hi> and the Fort of <hi>Lease,</hi> but my men at <hi>Rabride</hi> and <hi>Blacke-ditch</hi> put out the fire seasonably at <hi>Cilmaoy,</hi> that much hurt is not done, where now I have a Garrison, and hope to make it tenable in short time; I marched forward to the strong Fort and Garrison of <hi>Bellisonan</hi> with two Guns and a Mor<g ref="char:EOLhyphen"/>ter peece, when I came there I had Intelligence of the Earl <hi>Castlehaven</hi> being at <hi>Laughland</hi> bridge with foure thousand foote, and eight hundred horse, intending, within twenty foure houres to relieve <hi>Bellisonan,</hi> that night I planted my Guns and Morter-peece against the Fort, and the next mor<g ref="char:EOLhyphen"/>ning earlie, began to play about two of the clock, having prepared for to storme, and drawne up our Forces to that end, the Governour desired to parley, and upon conditi<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:165572:4"/> to march out with their armes, delivered me up imme<g ref="char:EOLhyphen"/>diatly his strong Garrison, wherein I found foure hun<g ref="char:EOLhyphen"/>dred Bushels of Corne, and six barrels of Beife, 7 barrels of powder with bullet and Match proportionable.</p>
+               <p>Having placed there a Garrison, I sent a Party to <hi>Kilrush</hi> who presently submitted.</p>
+               <p>Another Party I sent to the strong Castle of <hi>Tully,</hi> who yeil<g ref="char:EOLhyphen"/>ded likewise after some small assault.</p>
+               <p>I likewise dispatched a Party of foote to <hi>Athy,</hi> and put a Garrison in the Abbie there, which I understood was tena<g ref="char:EOLhyphen"/>ble, and not demolished, and divers other places in that County being Garrisoned, and my fortnights provision be<g ref="char:EOLhyphen"/>ing spent which I tooke out with me, and the wasted Coun<g ref="char:EOLhyphen"/>trey affording no reliefe, I returned to <hi>Dublin</hi> the ninth instant.</p>
+               <p>Thus my Lord you have an account of the goodnesse of God going forth with your Forces in these parts, if wee were but supplyed with men, money, provisions, and Am<g ref="char:EOLhyphen"/>munition (all which is wanting) I doubt not, by the blessing of God, but this Summer would end your Irish Warrs.</p>
+               <p>Since Christmas you have recovered and garrisoned in the County of <hi>Kildare,</hi>
+               </p>
+               <list>
+                  <item>Kilmaoy <hi>Castle.</hi>
+                  </item>
+                  <item>Blackwood <hi>Castle.</hi>
+                  </item>
+                  <item>Black-ditch <hi>Fort, all in and about the</hi> Bog <hi>of</hi> Allin, <hi>as also,</hi>
+                  </item>
+                  <item>Raibride.</item>
+                  <item>Ponsiers-Grange.</item>
+                  <item>Kildare, Tully,</item>
+                  <item>Grange-begg</item>
+                  <item>Bellisonan, Bellisax,</item>
+                  <item>Kilrush <hi>and</hi> Athy.</item>
+               </list>
+               <p>Al these considerable Garrisons, so that now your Interest
+<pb n="7" facs="tcp:165572:4"/> that way is as larrge and larger than in Lievt. Generall <hi>Jones</hi> time, thus farre hath the Lord gone along with your Forces, whose presence will scatter your enemies, and give you rest whilst his Tabernacle is pitched among you, and his goodnesse goe before you, his name is neare, his won<g ref="char:EOLhyphen"/>drous workes declares: that his presence may still abide with you and your Forces, shall be the dayly prayers of,</p>
+               <closer>
+                  <signed>Your most faithfull Servant.</signed>
+                  <dateline>
+                     <hi>Dated at Dublin,</hi>
+                     <date>
+                        <hi>March</hi> 19. 1649.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="license">
+                              <p>Licensed by <hi>Gualter Frost</hi> Esquire, Secretary to the Councell of State, according to the direction of the late Act.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:165572:5"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Thursday the</hi> 14. <hi>of March,</hi> 1649.</date> By the Trustees appointed by Act of Parliament for the sale of the Fee Farme Rents, la<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing to the late King, Q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Pr<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> at Worcester-House in the Strand.</dateline>
+               </opener>
+               <p>ACCORDING to the directions of the sayd Act, the sayd Trustees, doe hereby Declare, That they intend upon Munday the first day of <hi>Aprill</hi> next, to put to sale all the Fee-Farme Rents, Tenths, or Rents reserved, dry Rents, Hundreds, Liberties, Bailywricks, Reservations, Conditions, Franchises, and Pensions, late belonging to the late King, Queen, and Prince, unto the immediate Tenant, or Tenants of the Premises. And after the expiration of the thirty dayes allowed the sayd Tenant to be accounted from the sayd first of <hi>Aprill,</hi> the sayd Trustees will expose to sale the sayd Fee-Farme Rents, <hi>&amp;c.</hi> to a<g ref="char:EOLhyphen"/>ny Purehasor, or Purchasors, as shall desire to buy the same.</p>
+               <closer>
+                  <signed>Clement Baker, Clerke to the sayd Trustees.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed by <hi>M. Simmons,</hi> 1650.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
